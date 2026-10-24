@@ -3,6 +3,16 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Sat, 24 Oct 2026 18:53:21 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Removes the example clips that earlier versions added on first launch. Your own clips are not touched.</p>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.1.2/Clippy-1.1.2.dmg" length="3161134" type="application/octet-stream" sparkle:edSignature="wPrqffycaKTUleCKNu4f5TnE0exUmcFcjtlAYYnit7rUHnSwmDj+3fLcbhAHf69OhPvEdY8VHGHKGFYZ5zI0DQ=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sat, 24 Oct 2026 17:57:38 +0530</pubDate>
             <sparkle:version>3</sparkle:version>
