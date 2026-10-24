@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Clippy</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 24 Oct 2026 17:52:47 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Clippy now updates itself. Use Check for Updates… in the Clippy menu or the menu bar.</p>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.1/Clippy-1.1.dmg" length="3154739" type="application/octet-stream" sparkle:edSignature="23zy+wbf49H4mDhVwr2bWp+CCGqHLg2hSZnPYLH3V5DX1HCwVUiVvwh6doZPr1vqV0gCR612Fs4ej38fVzfxCA=="/>
+        </item>
+    </channel>
+</rss>
