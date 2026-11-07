@@ -3,6 +3,16 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Sat, 07 Nov 2026 18:00:39 +0530</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Quick Paste: press ⌥⌘V for your clips in columns (Text, Code, Links, Colors). New sidebar categories you can add and delete. Open the main window with ⌘O.</p>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.2/Clippy-1.2.dmg" length="3609498" type="application/octet-stream" sparkle:edSignature="DZwaEwUHxJLqj5iRMW3sg9oSt+WRHqEuMF1g/7XZGpzMsnHWVRG8/VWyULN9MRHP0eu4MaqpFo72TdnewGPiAQ=="/>
+        </item>
+        <item>
             <title>1.1.6</title>
             <pubDate>Thu, 29 Oct 2026 09:10:00 +0530</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -21,16 +31,6 @@
             <description><![CDATA[<p>Fixes clicking on clips, which stopped working in 1.1.4. Adds a Settings button at the top of the sidebar, and Clippy now shows in the window and the menu bar when a new version is available.</p>
 ]]></description>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.1.5/Clippy-1.1.5.dmg" length="3284902" type="application/octet-stream" sparkle:edSignature="W064aEPMnFywq0WMH5OjTB/mAcUdRbFPloE58txInhBCXv8RL/KTINEx3+1AWbRkNychgEMKhPpAs6hdmYuYAA=="/>
-        </item>
-        <item>
-            <title>1.1.4</title>
-            <pubDate>Wed, 28 Oct 2026 08:31:49 +0530</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Clippy now saves only the links you copy. To save everything you copy, turn on Settings ▸ Clipboard ▸ Save everything I copy. You can also select several clips, or Select All, and delete them together.</p>
-]]></description>
-            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.1.4/Clippy-1.1.4.dmg" length="3219247" type="application/octet-stream" sparkle:edSignature="2afNZOr3K7b35yjdxPYqj0zmamlxGOqd5YbheEe4Pr7F0xzNeDVZIRg7hFETtlvyKwjZq8SRkKV5qbxhZI4CAQ=="/>
         </item>
     </channel>
 </rss>
