@@ -3,6 +3,19 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Sat, 07 Nov 2026 20:21:39 +0530</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Cards view: switch the clip list to a grid of cards (List | Cards above your clips)</li>
+<li>Update notices now show what's new before you install</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.3/Clippy-1.3.dmg" length="3756704" type="application/octet-stream" sparkle:edSignature="pYHHArAZU4v9Gi661eamJ9dwFT/R7c9bilIXvXmHzbK4d5ugUdPI2B42rw1cTkXrZ+KbsqmN1lhKvtM+j12fBA=="/>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Sat, 07 Nov 2026 18:00:39 +0530</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -21,16 +34,6 @@
             <description><![CDATA[<p>Delete a tag from its Edit window or by pressing Delete. Update notices now show up reliably.</p>
 ]]></description>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.1.6/Clippy-1.1.6.dmg" length="3275150" type="application/octet-stream" sparkle:edSignature="vGXbGwygbNtpwg+yomxRd3IUEfxTEZ3SIiaUHqdt7RChs3pzCM9Jc4nF7VkDlTX1vwJeG/llEzhOz1WZOOP6DA=="/>
-        </item>
-        <item>
-            <title>1.1.5</title>
-            <pubDate>Wed, 28 Oct 2026 08:40:25 +0530</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Fixes clicking on clips, which stopped working in 1.1.4. Adds a Settings button at the top of the sidebar, and Clippy now shows in the window and the menu bar when a new version is available.</p>
-]]></description>
-            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.1.5/Clippy-1.1.5.dmg" length="3284902" type="application/octet-stream" sparkle:edSignature="W064aEPMnFywq0WMH5OjTB/mAcUdRbFPloE58txInhBCXv8RL/KTINEx3+1AWbRkNychgEMKhPpAs6hdmYuYAA=="/>
         </item>
     </channel>
 </rss>
