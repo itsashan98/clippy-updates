@@ -3,6 +3,21 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Sun, 08 Nov 2026 10:52:55 +0530</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>New glass buttons in place of coloured ones</li>
+<li>Selected clips are highlighted in blue glass, in List and Cards</li>
+<li>Clippy now follows your Mac's accent colour instead of purple</li>
+<li>Clicking a YouTube thumbnail on a card now selects the clip</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.4/Clippy-1.4.dmg" length="3801446" type="application/octet-stream" sparkle:edSignature="J41G4U4j+ZDN5K6c5kLt7y9v7gkNl5JQg9WQhCzBgbbqpsG9/Wb+Er+QtF1dly8t1ARLFnXZOHVdEBIZLEoICg=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Sat, 07 Nov 2026 20:21:39 +0530</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -24,16 +39,6 @@
             <description><![CDATA[<p>Quick Paste: press ⌥⌘V for your clips in columns (Text, Code, Links, Colors). New sidebar categories you can add and delete. Open the main window with ⌘O.</p>
 ]]></description>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.2/Clippy-1.2.dmg" length="3609498" type="application/octet-stream" sparkle:edSignature="DZwaEwUHxJLqj5iRMW3sg9oSt+WRHqEuMF1g/7XZGpzMsnHWVRG8/VWyULN9MRHP0eu4MaqpFo72TdnewGPiAQ=="/>
-        </item>
-        <item>
-            <title>1.1.6</title>
-            <pubDate>Thu, 29 Oct 2026 09:10:00 +0530</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Delete a tag from its Edit window or by pressing Delete. Update notices now show up reliably.</p>
-]]></description>
-            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.1.6/Clippy-1.1.6.dmg" length="3275150" type="application/octet-stream" sparkle:edSignature="vGXbGwygbNtpwg+yomxRd3IUEfxTEZ3SIiaUHqdt7RChs3pzCM9Jc4nF7VkDlTX1vwJeG/llEzhOz1WZOOP6DA=="/>
         </item>
     </channel>
 </rss>
