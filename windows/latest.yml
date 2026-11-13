@@ -1,8 +1,8 @@
-version: 1.3.1
+version: 1.3.2
 files:
-  - url: https://github.com/itsashan98/clippy-updates/releases/download/win-v1.3.1/Clippy-Setup-1.3.1.exe
-    sha512: 8WucgFqpJzaxYYh7AMiF1wU0VcPaYSYzgPra+L33d5LTFt6sR/Np2Cwt6A67X8lrN02UMuTDoFpSIpXnhgAmBw==
-    size: 82802053
-path: https://github.com/itsashan98/clippy-updates/releases/download/win-v1.3.1/Clippy-Setup-1.3.1.exe
-sha512: 8WucgFqpJzaxYYh7AMiF1wU0VcPaYSYzgPra+L33d5LTFt6sR/Np2Cwt6A67X8lrN02UMuTDoFpSIpXnhgAmBw==
-releaseDate: '2026-11-11T08:36:05.992Z'
+  - url: https://github.com/itsashan98/clippy-updates/releases/download/win-v1.3.2/Clippy-Setup-1.3.2.exe
+    sha512: qwp1AeikpHnfQ4pdZvB2HjyZES6aTw+SeSgQyxsYoi4CqKkdq9tQBCA1bGKf+BBiiieDNBfdeuZcUDxygPZ54w==
+    size: 82803818
+path: https://github.com/itsashan98/clippy-updates/releases/download/win-v1.3.2/Clippy-Setup-1.3.2.exe
+sha512: qwp1AeikpHnfQ4pdZvB2HjyZES6aTw+SeSgQyxsYoi4CqKkdq9tQBCA1bGKf+BBiiieDNBfdeuZcUDxygPZ54w==
+releaseDate: '2026-11-13T14:26:04.762Z'
