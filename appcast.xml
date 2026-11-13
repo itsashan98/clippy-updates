@@ -3,6 +3,21 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Fri, 13 Nov 2026 21:14:50 +0530</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Image clips: save screenshots and copied pictures. Turn on Save pictures I copy in Settings, or keep just one with Save Picture from Clipboard in the menu bar menu.</li>
+<li>Paste as plain text anywhere with ⌥⇧⌘V.</li>
+<li>Nothing you copy in a password manager is saved, even if the app doesn't mark it as secret.</li>
+<li>Sync now reaches Clippy on Windows too, through iCloud Drive.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.6/Clippy-1.6.dmg" length="4754107" type="application/octet-stream" sparkle:edSignature="Gn++osECLXupHN4d7Z9dVVajZ7TsLf7TBVKZVT9vK/X0bbjHa0Wu+1Wf24r1+MzBPctfPREBiztb7OUojXUbAg=="/>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Fri, 13 Nov 2026 19:58:20 +0530</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -31,21 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.5/Clippy-1.5.dmg" length="4502912" type="application/octet-stream" sparkle:edSignature="pPWn5Qdbk8Q7rVMK5D15IYMZXVE8rRiotGVZDp4XNjdQzsqtJ0km50fRTl21F+6RsoDPeDKIp+2IRFs8fMnOBQ=="/>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Sun, 08 Nov 2026 10:52:55 +0530</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>New glass buttons in place of coloured ones</li>
-<li>Selected clips are highlighted in blue glass, in List and Cards</li>
-<li>Clippy now follows your Mac's accent colour instead of purple</li>
-<li>Clicking a YouTube thumbnail on a card now selects the clip</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.4/Clippy-1.4.dmg" length="3801446" type="application/octet-stream" sparkle:edSignature="J41G4U4j+ZDN5K6c5kLt7y9v7gkNl5JQg9WQhCzBgbbqpsG9/Wb+Er+QtF1dly8t1ARLFnXZOHVdEBIZLEoICg=="/>
         </item>
     </channel>
 </rss>
