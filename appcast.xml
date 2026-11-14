@@ -3,6 +3,16 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Sat, 14 Nov 2026 09:37:46 +0530</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Settings no longer shows a GitHub link under About.</p>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.6.1/Clippy-1.6.1.dmg" length="4753756" type="application/octet-stream" sparkle:edSignature="s7qp4wQCHwMRMNYFHNVFqMzvczXRjXDmSYaLGVKMJPjC6BfQnwU48BSyM7BGYirwF42aplotdZUml2eGaYG3CQ=="/>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Fri, 13 Nov 2026 21:14:50 +0530</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -30,22 +40,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.5.1/Clippy-1.5.1.dmg" length="5552072" type="application/octet-stream" sparkle:edSignature="WkbgEaz+mwkgVhid67VEytMP3/huFhCj8/NhRs9RBveHZio+Kiwz7S+qlIUdG9nPq1y/n7txzMx7JKRXNmcxDA=="/>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Wed, 11 Nov 2026 11:58:33 +0530</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>New Boards: drag clips onto boards and arrange them freely (⇧⌘B)</li>
-<li>Notes on boards, with headers and any colour; right-click a board to add one</li>
-<li>Save any board note to your clip history</li>
-<li>A quick tour of what's new after each update</li>
-<li>New glass app icon and menu bar icon</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.5/Clippy-1.5.dmg" length="4502912" type="application/octet-stream" sparkle:edSignature="pPWn5Qdbk8Q7rVMK5D15IYMZXVE8rRiotGVZDp4XNjdQzsqtJ0km50fRTl21F+6RsoDPeDKIp+2IRFs8fMnOBQ=="/>
         </item>
     </channel>
 </rss>
