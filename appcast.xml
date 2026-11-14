@@ -8,8 +8,6 @@
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Settings no longer shows a GitHub link under About.</p>
-]]></description>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.6.1/Clippy-1.6.1.dmg" length="4753756" type="application/octet-stream" sparkle:edSignature="s7qp4wQCHwMRMNYFHNVFqMzvczXRjXDmSYaLGVKMJPjC6BfQnwU48BSyM7BGYirwF42aplotdZUml2eGaYG3CQ=="/>
         </item>
         <item>
