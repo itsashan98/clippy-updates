@@ -3,6 +3,22 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.6.2</title>
+            <pubDate>Sun, 15 Nov 2026 12:49:07 +0530</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Link clips show the website's logo.</li>
+<li>Double-click a link clip to open it in your browser.</li>
+<li>Add, rename and delete boards right from the Boards tab.</li>
+<li>A red dot on Settings tells you when an update is ready.</li>
+<li>Smoother minimizing, and everything fits in small windows.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.6.2/Clippy-1.6.2.dmg" length="6041054" type="application/octet-stream" sparkle:edSignature="rFbv+VBihr9VT/Z37in/0sSrKzg41TdI2M9EK+1E4CoZGLeEWHge6/Qu2VcHYSihs+BFtqoLe4/2HpOn2qpCBQ=="/>
+        </item>
+        <item>
             <title>1.6.1</title>
             <pubDate>Sat, 14 Nov 2026 09:37:46 +0530</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -24,20 +40,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.6/Clippy-1.6.dmg" length="4754107" type="application/octet-stream" sparkle:edSignature="Gn++osECLXupHN4d7Z9dVVajZ7TsLf7TBVKZVT9vK/X0bbjHa0Wu+1Wf24r1+MzBPctfPREBiztb7OUojXUbAg=="/>
-        </item>
-        <item>
-            <title>1.5.1</title>
-            <pubDate>Fri, 13 Nov 2026 19:58:20 +0530</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>Clips | Boards tabs at the top of the clip list. The Boards tab lists every note on your boards, so you can read and edit them right there.</li>
-<li>Resize board notes by dragging their bottom-right corner.</li>
-<li>Quick Paste (⌥⌘V) no longer has an empty Colors column.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.5.1/Clippy-1.5.1.dmg" length="5552072" type="application/octet-stream" sparkle:edSignature="WkbgEaz+mwkgVhid67VEytMP3/huFhCj8/NhRs9RBveHZio+Kiwz7S+qlIUdG9nPq1y/n7txzMx7JKRXNmcxDA=="/>
         </item>
     </channel>
 </rss>
