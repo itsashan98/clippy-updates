@@ -3,6 +3,22 @@
     <channel>
         <title>Clippy</title>
         <item>
+            <title>1.7</title>
+            <pubDate>Tue, 17 Nov 2026 08:45:11 +0530</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Folders for your clips: make folders (and folders inside folders), then drag clips in</li>
+<li>Boards tab: your boards in the sidebar, with Pinned and Starred boards and board folders</li>
+<li>Pin and star boards</li>
+<li>A new Clip | Board button and an embossed Clippy title</li>
+<li>Double-click a clip's text to edit it</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.7/Clippy-1.7.dmg" length="5360216" type="application/octet-stream" sparkle:edSignature="pAVWBKl6MgU751oEDLe80DbVft9G7XmFQFSpTArCNZrD5PUgW3nXYOcaOcu9SQjrx+KNpK5j+KzrR4BWUM+lDQ=="/>
+        </item>
+        <item>
             <title>1.6.2</title>
             <pubDate>Sun, 15 Nov 2026 12:49:07 +0530</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -25,21 +41,6 @@
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.6.1/Clippy-1.6.1.dmg" length="4753756" type="application/octet-stream" sparkle:edSignature="s7qp4wQCHwMRMNYFHNVFqMzvczXRjXDmSYaLGVKMJPjC6BfQnwU48BSyM7BGYirwF42aplotdZUml2eGaYG3CQ=="/>
-        </item>
-        <item>
-            <title>1.6</title>
-            <pubDate>Fri, 13 Nov 2026 21:14:50 +0530</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-<li>Image clips: save screenshots and copied pictures. Turn on Save pictures I copy in Settings, or keep just one with Save Picture from Clipboard in the menu bar menu.</li>
-<li>Paste as plain text anywhere with ⌥⇧⌘V.</li>
-<li>Nothing you copy in a password manager is saved, even if the app doesn't mark it as secret.</li>
-<li>Sync now reaches Clippy on Windows too, through iCloud Drive.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/itsashan98/clippy-updates/releases/download/v1.6/Clippy-1.6.dmg" length="4754107" type="application/octet-stream" sparkle:edSignature="Gn++osECLXupHN4d7Z9dVVajZ7TsLf7TBVKZVT9vK/X0bbjHa0Wu+1Wf24r1+MzBPctfPREBiztb7OUojXUbAg=="/>
         </item>
     </channel>
 </rss>
