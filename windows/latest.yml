@@ -1,8 +1,8 @@
 version: 1.4.0
 files:
-  - url: Clippy-Setup-1.4.0.exe
+  - url: https://github.com/itsashan98/clippy-updates/releases/download/win-v1.4.0/Clippy-Setup-1.4.0.exe
     sha512: h9smWCHr3mlcxgzTDF3rNHQY1D2bcanmEov3nyBjr8V3RPmXG5EOSLMW0HvkQoZJUKRhaY/uf83bQawKsb0L/Q==
     size: 82830321
-path: Clippy-Setup-1.4.0.exe
+path: https://github.com/itsashan98/clippy-updates/releases/download/win-v1.4.0/Clippy-Setup-1.4.0.exe
 sha512: h9smWCHr3mlcxgzTDF3rNHQY1D2bcanmEov3nyBjr8V3RPmXG5EOSLMW0HvkQoZJUKRhaY/uf83bQawKsb0L/Q==
 releaseDate: '2026-11-22T10:17:02.208Z'
